@@ -12,3 +12,10 @@ Research Scientist || Image and signal processing|| Automotive Camera Image Qual
 
 <details>
 <summary>Interested in image and signal processing algorithm development </summary>
+Currently working as Automotive Image Quality Function Owner at Valeo vision systems. Interested in Camera ISP and Mechatronics  development activities. 
+ 
+<details>
+<summary> Education </summary>
+PhD : Photonics
+ 
+Bachelors : Electronics and Instrumentation engineering
