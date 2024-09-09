@@ -25,9 +25,12 @@ Bachelors : Electronics and Instrumentation engineering
 
 ### Projects
 1. Design and development of Optical Coherence Tomography (OCT) imaging system and signal processing algorithms for photothermal imaging of gold nanostars.
+   
 2. Development of image processing algorithms for mapping in-vivo mocrocirculatory imaging (correlation mapping OCT - 
    cmOCT) of eye and skin.
+   
 3. Development of image processing algorithms for 3D corneal image segmentation and generating pachymetry maps.
+   
 4. Nano-sensitive OCT algorithms for detecting sub-micron structural changes in cornea.
 
 
