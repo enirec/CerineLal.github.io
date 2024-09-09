@@ -21,7 +21,7 @@ PhD : Photonics
 Bachelors : Electronics and Instrumentation engineering
 
 _Research publications :_
-[https://scholar.google.com/citations?user=4PBLiDIAAAAJ&hl=en]
+https://scholar.google.com/citations?user=4PBLiDIAAAAJ&hl=en
 
 ### Projects
 1. Design and development of Optical Coherence Tomography (OCT) imaging system and signal processing algorithms for photothermal imaging of gold nanostars.
