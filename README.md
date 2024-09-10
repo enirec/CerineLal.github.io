@@ -10,7 +10,7 @@ Hi, I'm Cerine. Welcome to my web-page!
 
 Research Scientist | Image and signal processing | Automotive Camera Image Quality | Optics | Medical imaging and Diagnostics
 
-- Interested in Image and Signal processing & Algorithm development </summary>
+- Interested in Image and Signal processing & Algorithm development.
 - Currently working as Automotive Image Quality Function Owner at Valeo Vision Systems. Interested in Camera ISP and 
   Mechatronics  development projects. 
  
