@@ -15,23 +15,23 @@ Research Scientist | Image and signal processing | Automotive Camera Image Quali
   Mechatronics  development projects.
   
 ### Education
- PhD : Photonics (National University of Ireland, Galway, Ireland)
+ <p align="justify"> Phd : Photonics (National University of Ireland, Galway, Ireland) </p>
  
- MS  : Biophotonics (Indian Institute of Technology, Madras, India)
+ <p align="justify"> MS: Biophotonics (Indian Institute of Technology, Madras, India) </p>
  
- Bachelors : Electronics and Instrumentation engineering (Mahatma Gandhi University, Kerala, India)
+ <p align="justify"> Bachelors : Electronics and Instrumentation engineering (Mahatma Gandhi University, Kerala, India) </p>
  
 _Research publications :_ [Google Scholar](https://scholar.google.com/citations?user=4PBLiDIAAAAJ&hl=en)
 
 ### Projects
-1. Design and development of Optical Coherence Tomography (OCT) imaging system and signal processing algorithms for photothermal imaging of gold nanostars.
+1. <p align="justify"> Design and development of Optical Coherence Tomography (OCT) imaging system and signal processing algorithms for photothermal imaging of gold nanostars. </p>
    
-2. Development of image processing algorithms for mapping in-vivo mocrocirculatory imaging (correlation mapping OCT - 
-   cmOCT) of eye and skin.
+2. <p align="justify"> Development of image processing algorithms for mapping in-vivo mocrocirculatory imaging (correlation mapping OCT - 
+   cmOCT) of eye and skin. </p>
    
-3. Development of image processing algorithms for 3D corneal image segmentation and generating pachymetry maps.
+3. <p align="justify"> Development of image processing algorithms for 3D corneal image segmentation and generating pachymetry maps.</p>
    
-4. Nano-sensitive OCT algorithms for detecting sub-micron structural changes in cornea.
+4. <p align="justify"> Nano-sensitive OCT algorithms for detecting sub-micron structural changes in cornea. </p>
 ### _Links :_
 PhD Thesis : [Thesis](https://github.com/enirec/CerineLal.github.io/blob/main/Cerine%20Lal_PhD_Thesis.pdf)
 
