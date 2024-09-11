@@ -35,5 +35,7 @@ _Research publications :_ [Google Scholar](https://scholar.google.com/citations?
 ### _Links :_
 PhD Thesis : [Thesis](https://github.com/enirec/CerineLal.github.io/blob/main/Cerine%20Lal_PhD_Thesis.pdf)
 
+[Thesis](https://docs.google.com/viewer?url=https://github.com/enirec/CerineLal.github.io/blob/main/Cerine%20Lal_PhD_Thesis.pdf)
+
 
 
