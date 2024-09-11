@@ -35,7 +35,7 @@ _Research publications :_ [Google Scholar](https://scholar.google.com/citations?
 ### _Links :_
 Resume : [CV](https://github.com/enirec/CerineLal.github.io/blob/main/CerineLal_CV.docx.pdf)
 
-PhD Thesis : [Thesis](https://github.com/enirec/CerineLal.github.io/blob/main/Cerine%20Lal_PhD_Thesis.pdf)
+ PhD Thesis : [Thesis](https://github.com/enirec/CerineLal.github.io/blob/main/Cerine%20Lal_PhD_Thesis.pdf)
 
 
 
