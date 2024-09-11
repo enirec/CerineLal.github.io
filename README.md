@@ -12,12 +12,15 @@ Research Scientist | Image and signal processing | Automotive Camera Image Quali
 
 - Interested in Image and Signal processing & Algorithm development.
 - Currently working as Automotive Image Quality Function Owner at Valeo Vision Systems. Interested in Camera ISP and 
-  Mechatronics  development projects. 
- 
+  Mechatronics  development projects.
+  
 ### Education
- PhD : Photonics
- MS  : Biophotonics
- Bachelors : Electronics and Instrumentation engineering
+ PhD : Photonics (National University of Ireland, Galway, Ireland)
+ 
+ MS  : Biophotonics (Indian Institute of Technology, Madras, India)
+ 
+ Bachelors : Electronics and Instrumentation engineering (Mahatma Gandhi University, Kerala, India)
+ 
 _Research publications :_ [Google Scholar](https://scholar.google.com/citations?user=4PBLiDIAAAAJ&hl=en)
 
 ### Projects
