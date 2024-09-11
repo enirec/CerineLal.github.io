@@ -15,10 +15,9 @@ Research Scientist | Image and signal processing | Automotive Camera Image Quali
   Mechatronics  development projects. 
  
 ### Education
-PhD : Photonics
-MS  : Biophotonics
-Bachelors : Electronics and Instrumentation engineering
-
+ PhD : Photonics
+ MS  : Biophotonics
+ Bachelors : Electronics and Instrumentation engineering
 _Research publications :_ [Google Scholar](https://scholar.google.com/citations?user=4PBLiDIAAAAJ&hl=en)
 
 ### Projects
