@@ -30,6 +30,8 @@ _Research publications :_ [Google Scholar](https://scholar.google.com/citations?
 3. Development of image processing algorithms for 3D corneal image segmentation and generating pachymetry maps.
    
 4. Nano-sensitive OCT algorithms for detecting sub-micron structural changes in cornea.
+## _Links :_
+PhD Thesis : [Thesis](https://github.com/enirec/CerineLal.github.io/blob/main/Cerine%20Lal_PhD_Thesis.pdf)
 
 
 
