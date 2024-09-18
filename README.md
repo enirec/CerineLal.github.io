@@ -34,7 +34,7 @@ _Research publications :_ [Google Scholar](https://scholar.google.com/citations?
 4. <p align="justify"> Nano-sensitive OCT algorithms for detecting sub-micron structural changes in cornea. </p>
 ### _Links :_
 
- Resume : [CV](https://github.com/enirec/CerineLal.github.io/blob/main/CerineLal_CV.docx.pdf)
+ Resume : [CV](https://github.com/enirec/CerineLal.github.io/blob/main/CerineLal_CV.pdf)
 
  PhD Thesis : [Thesis](https://github.com/enirec/CerineLal.github.io/blob/main/Cerine%20Lal_PhD_Thesis.pdf)
 
