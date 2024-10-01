@@ -9,11 +9,11 @@
 Hi, I'm Cerine. Welcome to my web-page!
 
 Research Scientist | Image and signal processing | Automotive Camera Image Quality | Optics | Medical imaging and Diagnostics
-
-- Interested in Image and Signal processing & Algorithm development.
-- Interested in medical devices research and development.
-- Currently working as Automotive Image Quality Function Owner at Valeo Vision Systems. Interested in Camera ISP and 
-  Mechatronics  development projects.
+### Expertise and Areas of interest:
+-  Image and Signal processing & Algorithm development.
+-  Medical devices research and development.
+-  Currently working as Automotive Image Quality Function Owner at Valeo Vision Systems. Interested in Camera ISP and 
+   Mechatronics  development projects.
   
 ### Education
  <p align="justify"> Phd : Photonics (National University of Ireland, Galway, Ireland) </p>
